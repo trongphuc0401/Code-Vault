@@ -19,6 +19,9 @@
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" style="height: 30px;">
   </a>
+    <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" style="height: 30px;">
+  </a>
   <br>
   <a href="https://discord.com/invite/QjEsr5VH">
     <img src="https://img.shields.io/badge/discord-7289da.svg?style=flat-square&logo=discord" alt="discord" style="height: 20px;">
