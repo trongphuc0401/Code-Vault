@@ -71,3 +71,16 @@ Experience the fastest way to develop React-Spring Boot applications with Code-V
 </p>
     
 </details>
+
+## Environment
+
+**- Front-End**:
+- **ReactJs 18.2 +**
+- **NodeJs 16.18.36 +** (Note: Please use NodeJs version 16.18 or higher)
+- **TypeScript 4.9.5 +**
+
+**- Back-End**:
+-   **JDK 18 +**
+- **Maven 4.0 +**
+- **IntelliJ IDEA COMUNITY 2023.3.4 +** (Note: Please use IDEA and make sure plugin lombok installed.)
+- **Mysql 8.0.36 +** (Please use version 8.0.36  or higher because mysql has some new features and is not backward compatible at version 8.0.36. Althought this project will try to avoid this incompatibility)
